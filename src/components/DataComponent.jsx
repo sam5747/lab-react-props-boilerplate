@@ -1,4 +1,5 @@
 import elephant from "./../images/elephant.jpeg";
+import React from "react";
 
 const DataComponent = () => {
   const data = [
